@@ -8,7 +8,7 @@ La herramienta usa cookies de Instagram de personas de tercero para que la herra
 
 <p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.5-blue.svg?style=for-the-badge"/></p>
 
-<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/TheStalker/blob/main/fotos/logo.png"> </p>
+<p align="center"> <img width="400" height="300" src="https://github.com/RIP-Network/TheStalker/blob/main/fotos/logo.png](https://github.com/RIP-Network/TheStalker/blob/main/Foto/foto.png"> </p>
 
 # Instalación
 
